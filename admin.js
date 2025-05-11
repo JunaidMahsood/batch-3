@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const secretPassword = "MySuperSecret123";
+    const secretPassword = "MySuperSecretJ";
 
     window.checkAdmin = function () {
         const enteredPassword = document.getElementById('adminPassword').value;
